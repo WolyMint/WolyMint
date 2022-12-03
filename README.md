@@ -1,6 +1,4 @@
-- 👋 Hi, Jane
-- 👀 I’m interested in HTML, CSS, JavaScript, orgazition
-- 🌱 I’m currently learning HTML, CSS, JavaScript
+- 👋 Hi, I'm Jane
 - 📫 How to reach me evgeniya.chubenko@list.ru
 
 <!---
